@@ -2,7 +2,7 @@ FACTORY APP
 
 <b>Need :</b>
 
-This app is an attempt to oragnize the unorganized factory setups.
+This app is an attempt to oragnize the unstructured factory setups.
 
 <b>Defintions :</b>
 
